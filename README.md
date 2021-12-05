@@ -1,4 +1,4 @@
-# fitness-tracker
+# Fitness Tracker
 
 ![License Badge](https://img.shields.io/badge/License-MIT-yellow.svg)
 
