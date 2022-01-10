@@ -26,7 +26,7 @@ To start the application, run `npm start` on the command line.
 
 ## Usage
 
-To start the application, run `npm start` on the command line or [visit the deployed version on Heroku] when the bugs have been fixed.
+To start the application, run `npm start` on the command line.
 
 From the main page, you can choose to start a new workout or continue an existing workout. Alternatively, you can also select to go to the Dashboard in the upper left. Selecting the "Fitness Tracker" will take you bac to this main page.
 
