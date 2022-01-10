@@ -24,8 +24,6 @@ Download, clone, or fork the repo and run an `npm install` command in the folder
 
 To start the application, run `npm start` on the command line.
 
-Alternatively, visit the online version deployed on Heroku, currently under construction, but available here: https://philosophers-fitness-tracker.herokuapp.com/
-
 ## Usage
 
 To start the application, run `npm start` on the command line or [visit the deployed version on Heroku] when the bugs have been fixed.
